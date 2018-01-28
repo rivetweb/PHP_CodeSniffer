@@ -1,6 +1,12 @@
 
 ## Install
 
+- установить PHP (для Windows http://windows.php.net/download/)
+
+- установить Git (для Windows http://gitforwindows.org/)
+
+- установить Composer https://getcomposer.org/download/
+
 - добавить в composer.json проекта
 ```
 {

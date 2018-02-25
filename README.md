@@ -14,7 +14,7 @@
         "squizlabs/php_codesniffer": "^2",
         "wimg/php-compatibility": "*"
     },
-    "prefer-stable" : true    
+    "prefer-stable" : true
 }
 ```
 
